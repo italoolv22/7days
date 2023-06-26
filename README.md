@@ -16,3 +16,15 @@ Dia 4) Este código HTML e CSS cria um jogo de adivinhação, onde o usuário de
 > No final do código, há um botão "Voltar" que redireciona o usuário para uma página chamada "dia4.html" quando clicado.
 
 Dia 5) Foi criada uma página HTML com a funcionalidade de adicionar comidas em diferentes categorias. O usuário pode escolher uma categoria e digitar o nome da comida desejada. Em seguida, a comida é adicionada à lista correspondente na página. O código utiliza JavaScript para manipular os elementos HTML e exibir as informações. O design da página foi estilizado com CSS para proporcionar uma melhor experiência visual ao usuário.
+
+Dia 6) Foi criada uma página HTML com um título "Lista de Compras" e um botão "Gerar Lista de Compras". Ao clicar no botão, é exibido um prompt ao usuário, solicitando que ele adicione ou remova itens da lista de compras.
+
+A lista de compras possui cinco categorias: hortifruti, laticínios, doces, carnes e bebidas. O usuário pode adicionar um item informando seu nome e a categoria à qual pertence. Os itens são armazenados nas listas correspondentes.
+
+O usuário também pode remover um item existente da lista. Ao selecionar a opção "Remover", é exibida uma lista com os itens de cada categoria. O usuário informa o item que deseja remover, e o item é removido da lista.
+
+Após as interações do usuário, a lista de compras é exibida na página como uma lista não ordenada, mostrando os itens de cada categoria. A lista é atualizada dinamicamente conforme o usuário adiciona ou remove itens.
+
+O estilo da página foi definido usando CSS, com a cor verde para o título e o botão. O botão possui um efeito de hover que escurece a cor de fundo.
+
+Em resumo, essa página permite ao usuário criar uma lista de compras interativa, adicionando e removendo itens em diferentes categorias, e exibindo a lista atualizada na página.
