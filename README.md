@@ -15,3 +15,4 @@ Dia 4) Este código HTML e CSS cria um jogo de adivinhação, onde o usuário de
 >Quando o usuário clica no botão "Chutar", o valor inserido no campo de entrada é comparado com o número secreto. Dependendo do resultado, uma mensagem é exibida indicando se o usuário acertou ou se restam tentativas.
 > No final do código, há um botão "Voltar" que redireciona o usuário para uma página chamada "dia4.html" quando clicado.
 
+Dia 5) Foi criada uma página HTML com a funcionalidade de adicionar comidas em diferentes categorias. O usuário pode escolher uma categoria e digitar o nome da comida desejada. Em seguida, a comida é adicionada à lista correspondente na página. O código utiliza JavaScript para manipular os elementos HTML e exibir as informações. O design da página foi estilizado com CSS para proporcionar uma melhor experiência visual ao usuário.
