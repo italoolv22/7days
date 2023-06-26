@@ -28,3 +28,5 @@ Após as interações do usuário, a lista de compras é exibida na página como
 O estilo da página foi definido usando CSS, com a cor verde para o título e o botão. O botão possui um efeito de hover que escurece a cor de fundo.
 
 Em resumo, essa página permite ao usuário criar uma lista de compras interativa, adicionando e removendo itens em diferentes categorias, e exibindo a lista atualizada na página.
+
+Dia 7) Neste código, foi criada uma calculadora simples em JavaScript usando HTML. Ela solicita uma operação matemática, dois números e exibe o resultado correspondente. O loop continua até que o usuário decida sair. O código utiliza funções JavaScript e uma estrutura switch para realizar os cálculos com base na entrada do usuário.
